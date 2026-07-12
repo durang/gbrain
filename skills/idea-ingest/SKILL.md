@@ -7,8 +7,10 @@ description: |
   user shares a link or says "read this", "save this", "think about this".
 triggers:
   - shares a link or URL
-  - "read this"
-  - "save this"
+  - "read this link"
+  - "read this article"
+  - "save this link"
+  - "save this idea"
   - "think about this"
   - "put this in brain"
 tools:

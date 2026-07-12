@@ -9,10 +9,17 @@ description: |
   lift fork-specific conventions to references).
 triggers:
   - "harvest this skill into gbrain"
+  - "harvest my skill"
   - "publish this skill to gbrain"
   - "lift this skill upstream"
+  - "skill upstream"
   - "share this skill with other gbrain clients"
   - "promote my skill to gbrain"
+  - "skill to gbrain"
+  - "into gbrain"
+  - "in the gbrain"
+  - "gbrain bundle"
+  - "gbrain core"
 mutating: true
 writes_pages: false
 writes_to:
