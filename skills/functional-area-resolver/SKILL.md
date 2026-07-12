@@ -1,6 +1,7 @@
 ---
 name: functional-area-resolver
 version: 1.0.0
+brain_first: exempt
 prompt_version: 1
 description: |
   Compress an agent's routing file (RESOLVER.md or AGENTS.md) by converting

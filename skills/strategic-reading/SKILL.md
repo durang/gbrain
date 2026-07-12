@@ -15,6 +15,11 @@ writes_to:
   - projects/
 ---
 
+> **Convention:** see [conventions/brain-first.md](../conventions/brain-first.md)
+> for the lookup chain. This skill enforces brain-first by querying
+> existing brain pages for prior readings and context before any
+> external lookup of the source text.
+
 # strategic-reading — Applied Analysis from Source Texts
 
 > **Convention:** see [conventions/quality.md](../conventions/quality.md) for
